@@ -1,0 +1,21 @@
+{
+    "name": "americanreading/restructure",
+    "description": "PHP Library for Manipulating Arrays of Data",
+    "homepage": "https://github.com/AmericanReading/Restructure",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "PJ Dietz",
+            "email": "pj.dietz@americanreading.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "AmericanReading\\Restructure": "src/"
+        }
+    }
+}

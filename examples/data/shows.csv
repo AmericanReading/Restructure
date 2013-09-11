@@ -1,0 +1,8 @@
+showId,characterId,petId,petTypeId,show,character,petName,petType
+1,1,,,The Simpsons,Homer,,
+1,2,1,1,The Simpsons,Lisa,Snowball II,Cat
+1,3,2,2,The Simpsons,Bart,Santa's Little Helper,Dog
+1,3,3,3,The Simpsons,Bart,Stmpy,Elephant
+2,4,4,2,Futurama,Fry,Seymour,Dog
+2,5,5,4,Futurama,Leela,Nibbler,Niblonean
+3,6,6,2,Family Guy,Peter,Brian,Dog
